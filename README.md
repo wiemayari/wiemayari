@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wiem Ayari  
 ### **Mobile & Web Developer** | Flutter • Android • React  
 
-Passionate about building seamless digital experiences with a focus on performance and clean architecture. Currently diving deep into [current interest, e.g., "Kotlin Multiplatform" or "Edge Computing"].  
+Passionate about building seamless digital experiences with a focus on performance and clean architecture. Currently diving deep into ["Kotlin Multiplatform" or "Edge Computing"].  
 
 ---
 
