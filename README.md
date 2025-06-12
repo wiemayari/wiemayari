@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Wiem Ayari  
 ### **Mobile & Web Developer** | Flutter • Android • React  
 
 Passionate about building seamless digital experiences with a focus on performance and clean architecture. Currently diving deep into [current interest, e.g., "Kotlin Multiplatform" or "Edge Computing"].  
@@ -23,36 +23,22 @@ Passionate about building seamless digital experiences with a focus on performan
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-## 🚀 **Featured Projects**  
-1. **[Project Name](https://github.com/yourlink)**  
-   ▶️ [Live Demo](link) | 📱 App Store/Play Store (if applicable)  
-   *Short description + key tech used (e.g., "Flutter app using BLoC for state management")*  
-
-2. **[Project Name](https://github.com/yourlink)**  
-   *Bonus: Add metrics like "10k+ downloads" or "95% Lighthouse score"*  
 
 ---
 
 ## 📈 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiemayari&show_icons=true&theme=radical)](https://github.com/wiemayari)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemayari&layout=compact&theme=radical)](https://github.com/wiemayari)  
 
 ---
 
-## 🌟 **Currently**  
-- 🔭 Working on: [Brief project description]  
-- 🌱 Learning: [e.g., "Jetpack Compose"]  
-- 👯 Looking to collaborate on: [Open-source/Startup ideas]  
 
----
 
 ## 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-📧 Email: your.email@domain.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayari-wiem-16b671300/))
+ 
+📧 Email: ayariwiem27@gmail.com  
 
 ---
 
-⭐ *From [Your Name] with ❤️*  
+⭐ *From Wiem Ayari with ❤️*  
